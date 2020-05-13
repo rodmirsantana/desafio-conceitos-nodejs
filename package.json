@@ -12,6 +12,7 @@
     "express": "^4.17.1",
     "uuidv4": "^6.0.7"
   },
+  "engine": "node 12.16.2",
   "devDependencies": {
     "jest": "^25.2.6",
     "nodemon": "^2.0.2",
